@@ -18,16 +18,23 @@ No hay suficiente data respecto del problema, y muchas organizaciones dedicadas 
 ## The Tasks and Timeline
 ### Week 1
 -Data cleaning and preprocessing 
+
 -Additional Twitter scraping
+
 –Exploratory Data Analysis(EDA)
 ### Week 2
 -Categories definition
+
 -Feature Engineering
+
 -Model selection and first experiments
 ### Week 3
 -NLP Model Development
+
 -Documenting the categories
 ### Week 4
 -Prepare the dataset to deliver
+
 -Write the final report
+
 -Share the data with the public
