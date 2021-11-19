@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# Libraries
+# Import libraries
 
 import snscrape.modules.twitter as sntwitter
 import pandas as pd
